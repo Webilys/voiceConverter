@@ -24,7 +24,9 @@
 }
 
 .hero h1 span {
-  color: #ff2963;
+  background: #ff2963;
+  padding: 10px 20px;
+  border-radius: 10px;
 }
 
 textarea {
